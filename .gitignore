@@ -3,3 +3,7 @@
 **/.env
 .vscode/
 .DS_Store
+node_modules/
+.env
+!.env.example
+*Zone.Identifier
